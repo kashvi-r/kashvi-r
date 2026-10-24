@@ -6,9 +6,9 @@ This account is used by me for company related tasks/projects.
 
 ## Important Links
 
-- 💻 **Main GitHub Account:** [cashvee](https://github.com/cashvee)
+- 💻 **Main GitHub Account:** [github.com/cashvee](https://github.com/cashvee)
 - 🌐 **Portfolio Website:** [kashvi-port-web.vercel.app](https://kashvi-port-web.vercel.app/)
-- 💼 **LinkedIn:** [kashvi-r](https://www.linkedin.com/in/kashvi-r/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/kashvi-r/](https://www.linkedin.com/in/kashvi-r/)
 
 ---
 
