@@ -1,16 +1,14 @@
-## Hi there 👋
+## About
 
-<!--
-**kashvi-r/kashvi-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT student @MIT Manipal | Software Development | AI & Machine Learning | Computation & Research
+I'm passionate about building meaningful software, solving problems, and exploring new technologies. Currently working on projects that combine clean code, thoughtful design, and practical engineering.
+This account is used by me for company related tasks/projects.
 
-Here are some ideas to get you started:
+## 🔗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Main GitHub Account:** [cashvee](https://github.com/cashvee)
+- 🌐 **Portfolio Website:** [kashvi-port-web.vercel.app](https://kashvi-port-web.vercel.app/)
+- 💼 **LinkedIn:** [kashvi-r](https://www.linkedin.com/in/kashvi-r/)
+
+---
+
