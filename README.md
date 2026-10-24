@@ -2,6 +2,7 @@
 
 B.Tech IT student @MIT Manipal | Software Development | AI & Machine Learning | Computation & Research
 I'm passionate about building meaningful software, solving problems, and exploring new technologies. Currently working on projects that combine clean code, thoughtful design, and practical engineering.  
+  
 This account is used by me for company related tasks/projects.
 
 ## Important Links
